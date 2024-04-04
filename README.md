@@ -11,6 +11,7 @@ Sou um/a desenvolvedor apaixonado por transformar ideias em código e explorar n
 
 ## 📚 Projetos Destacados
 
+<!--
 <div>
   <a href="LINK_DO_PROJETO_1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=devjuliusotto&repo=nomedorepo1&theme=radical" />
@@ -19,7 +20,7 @@ Sou um/a desenvolvedor apaixonado por transformar ideias em código e explorar n
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=devjuliusotto&repo=nomedorepo2&theme=radical" />
   </a>
 </div>
-
+-->
 ## 🛠️ Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
