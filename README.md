@@ -1,6 +1,6 @@
 # 🌟 Hello World! Eu sou Julius 🌟
 
-<img align="right" src="(https://img.freepik.com/fotos-premium/animacao-de-conceito-de-hacker-de-codificacao-de-tela-verde-com-falha-erro-de-digitacao-de-codigo-de-programacao_571748-303.jpg?w=1480)" width="300"/>
+<img align="right" src="https://img.freepik.com/fotos-premium/animacao-de-conceito-de-hacker-de-codificacao-de-tela-verde-com-falha-erro-de-digitacao-de-codigo-de-programacao_571748-303.jpg?w=1480" width="300"/>
 
 ## 🎨 Sobre Mim
 
