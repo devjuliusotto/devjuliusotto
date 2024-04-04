@@ -15,10 +15,10 @@ Sou um/a desenvolvedor apaixonado por transformar ideias em código e explorar n
 ## 📚 Projetos Destacados
 <div>
   <a href="LINK_DO_PROJETO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devjuliusotto&repo=nomedorepo1&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devjuliusottode&repo=nomedorepo1&theme=radical" />
   </a>
   <a href="LINK_DO_PROJETO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devjuliusotto&repo=nomedorepo2&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devjuliusottode&repo=nomedorepo2&theme=radical" />
   </a>
 </div>
 -->
