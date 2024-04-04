@@ -9,9 +9,10 @@ Sou um/a desenvolvedor apaixonado por transformar ideias em código e explorar n
 - 🚀 Entusiasta por Python
 - 🌱 Atualmente focando meus estudos em Java e C#
 
-## 📚 Projetos Destacados
+
 
 <!--
+## 📚 Projetos Destacados
 <div>
   <a href="LINK_DO_PROJETO_1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=devjuliusotto&repo=nomedorepo1&theme=radical" />
@@ -21,6 +22,9 @@ Sou um/a desenvolvedor apaixonado por transformar ideias em código e explorar n
   </a>
 </div>
 -->
+
+
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
