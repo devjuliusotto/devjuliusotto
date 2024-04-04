@@ -27,9 +27,16 @@ Sou um/a desenvolvedor apaixonado por transformar ideias em código e explorar n
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)](https://www.oracle.com/java/)
+[![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)](https://angular.io/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)](https://nodejs.org/en/)
+
+
 <!-- Adicione suas tecnologias favoritas -->
 
 ## 📈 Estatísticas do GitHub
