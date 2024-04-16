@@ -1,4 +1,4 @@
-# 🌟 Hello World! [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Eu+sou+Julius;Second+line+of+text)](https://git.io/typing-svg) 🌟
+# 🌟 Hello World! Eu sou Julius 🌟
 
 
 
