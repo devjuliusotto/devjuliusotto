@@ -4,7 +4,7 @@
 
 ## 🎨 Sobre Mim
 
-Sou um/a desenvolvedor apaixonado por transformar ideias em código e explorar novas tecnologias. Aqui no GitHub, você encontrará projetos que variam desde experimentos pessoais até soluções complexas para problemas comuns.
+Sou um desenvolvedor apaixonado por transformar ideias em código e explorar novas tecnologias. Aqui no GitHub, você encontrará projetos que variam desde experimentos pessoais até soluções complexas para problemas comuns.
 
 - 🚀 Entusiasta por Python
 - 🌱 Atualmente focando meus estudos em Java e C#
