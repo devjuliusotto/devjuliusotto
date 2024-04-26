@@ -1,10 +1,10 @@
-# ✨ Olá, Mundo! Eu sou Julius ✨
+# ✨ Hello World! Eu sou Julius ✨
 
 ## 🖥️ Sobre Mim
 
 Sou um desenvolvedor apaixonado por transformar ideias em código e explorar novas tecnologias. Aqui no GitHub, você encontrará projetos que variam desde experimentos pessoais até soluções complexas para problemas comuns.
 
-- 🐍 Entusiasta de Python
+- 🐍 Entusiasta de Python, Inteligência Artificial, Machine Learning e RPA.
 - ☕ Atualmente focando meus estudos em Java
 - 🔷 E explorando C#
 
@@ -33,4 +33,4 @@ Sou um desenvolvedor apaixonado por transformar ideias em código e explorar nov
 ## 🎉 Curiosidades
 
 - 🌿 Nos tempos livres, adoro fazer trilha e acampar com os amigos
-- 🌎 Curioso/a sobre Engenharia Aeroespacial
+- 🌎 Curioso/a sobre Engenharia Aeroespacial e Engenharia Industrial.
