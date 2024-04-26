@@ -1,9 +1,8 @@
 # ✨ Hello World! Eu sou Julius ✨
-Perfil focado em compartilhar projetos acadêmicos.
 
 ## 🖥️ Sobre Mim
 
-Sou um desenvolvedor apaixonado por transformar ideias em código e explorar novas tecnologias. Aqui no GitHub, você encontrará projetos que variam desde experimentos pessoais até soluções complexas para problemas comuns.
+Sou um desenvolvedor apaixonado por transformar ideias em código e explorar novas tecnologias. Nesta conta do GitHub, você encontrará alguns projetos acadêmicos sendo desenvolvidos para a FIAP. Projetos Profissionais apenas no GitLab.
 
 - 🐍 Entusiasta de Python, Inteligência Artificial, Machine Learning e RPA.
 - ☕ Atualmente focando meus estudos em Java
