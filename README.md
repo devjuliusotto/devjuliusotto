@@ -1,4 +1,5 @@
 # ✨ Hello World! Eu sou Julius ✨
+Perfil focado em compartilhar projetos acadêmicos.
 
 ## 🖥️ Sobre Mim
 
