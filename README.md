@@ -1,32 +1,14 @@
-# 🌟 Hello World! Eu sou Julius 🌟
+# ✨ Olá, Mundo! Eu sou Julius ✨
 
-
-
-## 🎨 Sobre Mim
+## 🖥️ Sobre Mim
 
 Sou um desenvolvedor apaixonado por transformar ideias em código e explorar novas tecnologias. Aqui no GitHub, você encontrará projetos que variam desde experimentos pessoais até soluções complexas para problemas comuns.
 
-- 🚀 Entusiasta por Python
-- 🌱 Atualmente focando meus estudos em Java e C#
+- 🐍 Entusiasta de Python
+- ☕ Atualmente focando meus estudos em Java
+- 🔷 E explorando C#
 
-
-
-<!--
-## 📚 Projetos Destacados
-<div>
-  <a href="LINK_DO_PROJETO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devjuliusottode&repo=nomedorepo1&theme=radical" />
-  </a>
-  <a href="LINK_DO_PROJETO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devjuliusottode&repo=nomedorepo2&theme=radical" />
-  </a>
-</div>
--->
-
-
-
-## 🛠️ Tecnologias e Ferramentas
-
+## 🔧 Tecnologias e Ferramentas
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -41,9 +23,6 @@ Sou um desenvolvedor apaixonado por transformar ideias em código e explorar nov
 [![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
 
-
-<!-- Adicione suas tecnologias favoritas -->
-
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
@@ -53,5 +32,5 @@ Sou um desenvolvedor apaixonado por transformar ideias em código e explorar nov
 
 ## 🎉 Curiosidades
 
-- 🎵 Nos tempos livres, adoro fazer trilha e acampar com os amigos
+- 🌿 Nos tempos livres, adoro fazer trilha e acampar com os amigos
 - 🌎 Curioso/a sobre Engenharia Aeroespacial
