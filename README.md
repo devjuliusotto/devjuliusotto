@@ -2,7 +2,9 @@
 
 ## 🖥️ Sobre Mim
 
-Sou um desenvolvedor apaixonado por transformar ideias em código e explorar novas tecnologias. Nesta conta do GitHub, você encontrará alguns projetos acadêmicos sendo desenvolvidos para a FIAP. Projetos Profissionais apenas no GitLab.
+Sou um desenvolvedor apaixonado por transformar ideias em código e explorar novas tecnologias. Nesta conta do GitHub, você encontrará alguns projetos acadêmicos sendo desenvolvidos para a FIAP.
+
+Projetos Profissionais e de grande porte apenas no GitLab.
 
 - 🐍 Entusiasta de Python, Inteligência Artificial, Machine Learning e RPA.
 - ☕ Atualmente focando meus estudos em Java
