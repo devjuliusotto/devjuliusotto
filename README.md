@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por transformar ideias em código e explorar nov
 
 Projetos Profissionais e de grande porte apenas no GitLab.
 
-- 🐍 Entusiasta de Python, Inteligência Artificial, Machine Learning e RPA.
+- 🐍 Entusiasta de Python, Inteligência Artificial e Machine Learning.
 - ☕ Atualmente focando meus estudos em Java
 - 🔷 E explorando C#
 
