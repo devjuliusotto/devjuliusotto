@@ -1,6 +1,6 @@
 # ✨ Hello World! Eu sou Julius ✨
 
-## 🖥️ Sobre Mim
+## Sobre Mim
 
 Sou um desenvolvedor apaixonado por transformar ideias em código e explorar novas tecnologias. Nesta conta do GitHub, você encontrará alguns projetos acadêmicos sendo desenvolvidos para a FIAP.
 
@@ -25,14 +25,14 @@ Projetos Profissionais e de grande porte apenas no GitLab.
 [![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjuliusotto&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjuliusotto&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
-## 🎉 Curiosidades
+## 🎉 Hobbies
 
 - 🌿 Nos tempos livres, adoro fazer trilha e acampar com os amigos
 - 🌎 Curioso/a sobre Engenharia Aeroespacial e Engenharia Industrial.
