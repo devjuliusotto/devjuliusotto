@@ -1,16 +1,16 @@
-# ✨ Hello World! Eu sou Julius ✨
+# ✨ Hello World! I'm Julius ✨
 
-## Sobre Mim
+## About Me
 
-Sou um desenvolvedor apaixonado por transformar ideias em código e explorar novas tecnologias. Nesta conta do GitHub, você encontrará alguns projetos acadêmicos sendo desenvolvidos para a FIAP.
+I'm a developer passionate about turning ideas into code and exploring new technologies. On this GitHub account, you'll find some academic projects being developed for FIAP.
 
-Projetos Profissionais e de grande porte apenas no GitLab.
+Professional and large-scale projects only on GitLab.
 
-- 🐍 Entusiasta de Python, Inteligência Artificial e Machine Learning.
-- ☕ Atualmente focando meus estudos em Java
-- 🔷 E explorando C#
+- 🐍 Python enthusiast, Artificial Intelligence, and Machine Learning.
+- ☕ Currently focusing my studies on Java.
+- 🔷 And exploring C#
 
-## 🔧 Tecnologias e Ferramentas
+## 🔧 Technologies and Tools
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -25,7 +25,7 @@ Projetos Profissionais e de grande porte apenas no GitLab.
 [![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
 
-## Estatísticas do GitHub
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjuliusotto&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
@@ -34,5 +34,5 @@ Projetos Profissionais e de grande porte apenas no GitLab.
 
 ## 🎉 Hobbies
 
-- 🌿 Nos tempos livres, adoro fazer trilha e acampar com os amigos
-- 🌎 Curioso/a sobre Engenharia Aeroespacial e Engenharia Industrial.
+- 🌿 In my free time, I love to hike and camp with friends.
+- 🌎 Curious about Aerospace Engineering and Industrial Engineering.
