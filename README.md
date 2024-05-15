@@ -4,8 +4,6 @@
 
 I'm a developer passionate about turning ideas into code and exploring new technologies. On this GitHub account, you'll find some academic projects being developed for FIAP.
 
-Professional and large-scale projects only on GitLab.
-
 - 🐍 Python enthusiast, Artificial Intelligence, and Machine Learning.
 - ☕ Currently focusing my studies on Java.
 - 🔷 And exploring C#
