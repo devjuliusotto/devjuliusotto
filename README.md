@@ -16,7 +16,6 @@ I'm a developer passionate about turning ideas into code and exploring new techn
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)](https://angular.io/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js)](https://nodejs.org/en/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://www.w3.org/Style/CSS/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
