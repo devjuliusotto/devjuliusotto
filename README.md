@@ -32,7 +32,6 @@
 
 I am a trilingual German software developer with a keen interest in turning ideas into practical solutions. On this GitHub profile, you'll find a collection of my academic projects from FIAP and other personal creations. My goal is to continually explore new technologies and enhance my skills.
 
----
 ### Languages
 
 <p>
