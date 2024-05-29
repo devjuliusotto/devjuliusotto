@@ -1,13 +1,41 @@
-
-
-
+<p align="center">
   <a href="https://github.com/devjuliusotto/readme.md">
-    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=C13245&size=40&width=1000&lines=Welcome+to+my+GitHub+Profile!" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=77F285&size=40&width=1000&lines=Welcome+to+my+GitHub+Profile!" /></a>
 </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="German Flag" width="250"/>
-
----
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="German Flag" width="250"/>
+        <br>
+        <strong style="font-size: 304px;">German Developer</strong>
+      </p>
+    </td>
+    <td>
+      <h3>🎧 Spotify Playing</h3>
+      <p>
+        <a href="https://open.spotify.com/playlist/0OlAPyg251DVP6haZ99Qwi?si=18dc58b7319f40d0">
+          <img src="https://img.shields.io/badge/General%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="General Music"/>
+        </a>
+        <a href="https://open.spotify.com/playlist/5APgOEMKL6SyOEzNFBCNcl?si=d16e56ab3d384d54">
+          <img src="https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Programming Music"/>
+        </a>
+        <a href="https://open.spotify.com/playlist/5Nqfm0iJswV0TnjEcendet?si=6dcfd7e809304efa">
+          <img src="https://img.shields.io/badge/Soft%20Songs-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Soft Songs"/>
+        </a>
+        <a href="https://open.spotify.com/intl-pt/album/2RNTBrSO8U8XjjEj9RVvZ5?si=kQ8v1vMqRGqsc3U-wEVY2w">
+          <img src="https://img.shields.io/badge/GYM-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="GYM"/>
+        </a>
+      </p>
+      <p>
+        <a href="https://open.spotify.com/user/1mqlbmj935myajlx4otck7u6m">
+          <img src="https://readme-spotify.warengonzaga.com/api/spotify" alt="Spotify"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## About Me
 Hello! I'm **Julius**, a dedicated developer with a passion for transforming innovative ideas into functional code. My journey in technology is driven by relentless curiosity and a commitment to continuous learning. This GitHub profile showcases my academic projects from FIAP and other personal endeavors.
@@ -33,8 +61,8 @@ Hello! I'm **Julius**, a dedicated developer with a passion for transforming inn
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ## 📈 GitHub Stats
-![Julius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula)
+![Julius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjuliusotto&show_icons=true&theme=chartreuse-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devjuliusotto&layout=compact&theme=chartreuse-dark)
 
 ## 🎉 Hobbies and Interests
 - **Outdoor Activities**: Passionate about hiking and camping with friends.
