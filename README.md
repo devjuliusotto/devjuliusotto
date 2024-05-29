@@ -1,7 +1,18 @@
-# Welcome to My GitHub Profile! 👋
+
+
+
+  <a href="https://github.com/devjuliusotto/readme.md">
+    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=C13245&size=40&width=1000&lines=Welcome+to+my+GitHub+Profile!" /></a>
+</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="German Flag" width="250"/>
+
+---
 
 ## About Me
-Hello! I'm **Julius**, a dedicated developer with a passion for transforming innovative ideas into functional code. My journey in technology is driven by a relentless curiosity and a commitment to continuous learning. This GitHub profile showcases my academic projects from FIAP and other personal endeavors.
+Hello! I'm **Julius**, a dedicated developer with a passion for transforming innovative ideas into functional code. My journey in technology is driven by relentless curiosity and a commitment to continuous learning. This GitHub profile showcases my academic projects from FIAP and other personal endeavors.
+
+---
 
 ### 🌟 Professional Interests
 - **Python**: Enthusiast in Artificial Intelligence and Machine Learning.
