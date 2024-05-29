@@ -1,44 +1,32 @@
 <p align="center">
   <a href="https://github.com/devjuliusotto/readme.md">
-    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=77F285&size=40&width=1000&lines=Welcome+to+my+GitHub+Profile!" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=77F285&size=40&width=1000&lines=Welcome+to+my+GitHub+Profile!" />
+  </a>
 </p>
 
 <table>
   <tr>
-    <td>
-      <p align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="German Flag" width="250"/>
-        <br>
-        <strong style="font-size: 304px;">German Developer</strong>
-      </p>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="German Flag" width="350"/>
+      <br>
+      <strong style="font-size: 24px;">German Developer</strong>
     </td>
-    <td>
-      <h3>🎧 Spotify Playing</h3>
-      <p>
-        <a href="https://open.spotify.com/playlist/0OlAPyg251DVP6haZ99Qwi?si=18dc58b7319f40d0">
-          <img src="https://img.shields.io/badge/General%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="General Music"/>
-        </a>
-        <a href="https://open.spotify.com/playlist/5APgOEMKL6SyOEzNFBCNcl?si=d16e56ab3d384d54">
-          <img src="https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Programming Music"/>
-        </a>
-        <a href="https://open.spotify.com/playlist/5Nqfm0iJswV0TnjEcendet?si=6dcfd7e809304efa">
-          <img src="https://img.shields.io/badge/Soft%20Songs-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Soft Songs"/>
-        </a>
-        <a href="https://open.spotify.com/intl-pt/album/2RNTBrSO8U8XjjEj9RVvZ5?si=kQ8v1vMqRGqsc3U-wEVY2w">
-          <img src="https://img.shields.io/badge/GYM-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="GYM"/>
-        </a>
-      </p>
-      <p>
-        <a href="https://open.spotify.com/user/1mqlbmj935myajlx4otck7u6m">
-          <img src="https://readme-spotify.warengonzaga.com/api/spotify" alt="Spotify"/>
-        </a>
-      </p>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_200_200/0/1631312349936?e=1724889600&v=beta&t=kq1Xiq0dPnpjFnWWbsrD-wY30DWUjytFx_eeYxTjBbY" alt="FIAP Logo" width="200"/>
+      <br>
+      <strong style="font-size: 24px;">FIAP Student</strong>
+    </td>
+    <td align="center">
+      <img src="https://i.pinimg.com/564x/38/58/58/3858585be4f987f48ada19fcc17dfd3f.jpg" alt="Rice University Logo" width="200"/>
+      <br>
+      <strong style="font-size: 24px;">Rice University Student</strong>
     </td>
   </tr>
 </table>
 
 ## About Me
-Hello! I'm **Julius**, a dedicated developer with a passion for transforming innovative ideas into functional code. My journey in technology is driven by relentless curiosity and a commitment to continuous learning. This GitHub profile showcases my academic projects from FIAP and other personal endeavors.
+
+Hello! I'm Julius, a developer with a keen interest in turning ideas into practical solutions. On this GitHub profile, you'll find a collection of my academic projects from FIAP and other personal creations. My goal is to continually explore new technologies and enhance my skills.
 
 ---
 
@@ -70,13 +58,24 @@ Hello! I'm **Julius**, a dedicated developer with a passion for transforming inn
 
 ---
 
-### 📫 Let's Connect!
+<h3 align="left">🎧 Spotify Playing</h3>
+<p align="left">
+  <a href="https://open.spotify.com/playlist/0OlAPyg251DVP6haZ99Qwi?si=18dc58b7319f40d0">
+    <img src="https://img.shields.io/badge/General%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="General Music"/>
+  </a>
+  <a href="https://open.spotify.com/playlist/5APgOEMKL6SyOEzNFBCNcl?si=d16e56ab3d384d54">
+    <img src="https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Programming Music"/>
+  </a>
+  <a href="https://open.spotify.com/playlist/5Nqfm0iJswV0TnjEcendet?si=6dcfd7e809304efa">
+    <img src="https://img.shields.io/badge/Soft%20Songs-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Soft Songs"/>
+  </a>
+  <a href="https://open.spotify.com/intl-pt/album/2RNTBrSO8U8XjjEj9RVvZ5?si=kQ8v1vMqRGqsc3U-wEVY2w">
+    <img src="https://img.shields.io/badge/GYM-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="GYM"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://open.spotify.com/user/1mqlbmj935myajlx4otck7u6m">
+    <img src="https://readme-spotify.warengonzaga.com/api/spotify" alt="Spotify"/>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" style="display: inline-block; text-decoration: none; background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle; padding-right: 5px;">
-    Connect on LinkedIn
-</a>
-
----
-
-Thank you for visiting my GitHub profile. Feel free to explore my repositories and get in touch for collaboration!
