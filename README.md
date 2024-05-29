@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/devjuliusotto/readme.md">
-    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=77F285&size=40&width=1000&lines=Welcome+to+my+GitHub+Profile!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=EC3E85&size=40&width=1000&lines=Welcome+to+my+GitHub+Profile!" />
   </a>
 </p>
 
-<table>
+<!-- <table>
   <tr>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="German Flag" width="350"/>
@@ -23,10 +23,11 @@
     </td>
   </tr>
 </table>
+-->
 
 ## About Me
 
-Hello! I'm Julius, a developer with a keen interest in turning ideas into practical solutions. On this GitHub profile, you'll find a collection of my academic projects from FIAP and other personal creations. My goal is to continually explore new technologies and enhance my skills.
+Hello! I'm Julius, a German developer with a keen interest in turning ideas into practical solutions. On this GitHub profile, you'll find a collection of my academic projects from FIAP and other personal creations. My goal is to continually explore new technologies and enhance my skills.
 
 ---
 
@@ -49,8 +50,8 @@ Hello! I'm Julius, a developer with a keen interest in turning ideas into practi
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ## 📈 GitHub Stats
-![Julius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjuliusotto&show_icons=true&theme=chartreuse-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devjuliusotto&layout=compact&theme=chartreuse-dark)
+![Julius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjuliusotto&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devjuliusotto&layout=compact&theme=radical)
 
 ## 🎉 Hobbies and Interests
 - **Outdoor Activities**: Passionate about hiking and camping with friends.
