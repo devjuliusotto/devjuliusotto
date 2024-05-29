@@ -1,8 +1,11 @@
+# Hello There! I am Julius!
+
 <p align="center">
   <a href="https://github.com/devjuliusotto/readme.md">
-    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=EC3E85&size=40&width=1000&lines=Welcome+to+my+GitHub+Profile!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=EC3E85&size=40&width=2000&lines=Welcome+to+my+GitHub+Profile!;Bem-vindo+ao+meu+perfil+do+GitHub!;Herzlich+willkommen+zu+meinem+GitHub-Profil!" />
   </a>
 </p>
+
 
 <!-- <table>
   <tr>
@@ -27,9 +30,17 @@
 
 ## About Me
 
-Hello! I'm Julius, a German developer with a keen interest in turning ideas into practical solutions. On this GitHub profile, you'll find a collection of my academic projects from FIAP and other personal creations. My goal is to continually explore new technologies and enhance my skills.
+I am a trilingual German software developer with a keen interest in turning ideas into practical solutions. On this GitHub profile, you'll find a collection of my academic projects from FIAP and other personal creations. My goal is to continually explore new technologies and enhance my skills.
 
 ---
+### Languages
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="German" width="30" height="20"> German - Native<br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Portuguese" width="30" height="20"> Portuguese - Native<br>
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English" width="30" height="20"> English - Advanced
+</p>
+
 
 ### 🌟 Professional Interests
 - **Python**: Enthusiast in Artificial Intelligence and Machine Learning.
