@@ -60,8 +60,16 @@ I am a trilingual German software developer with a keen interest in turning idea
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ## 📈 GitHub Stats
-![Julius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjuliusotto&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devjuliusotto&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=devjuliusotto&show_icons=true&theme=radical&title_color=ff69b4&border_color=ff69b4" style="width: 49%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjuliusotto&layout=compact&theme=radical&title_color=ff69b4&border_color=ff69b4" style="width: 37%;">
+</div>
+``
+
+
+
+
+
 
 ## 🎉 Hobbies and Interests
 - **Outdoor Activities**: Passionate about hiking and camping with friends.
