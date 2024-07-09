@@ -6,33 +6,21 @@
   </a>
 </p>
 
-
-<!-- <table>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="German Flag" width="350"/>
-      <br>
-      <strong style="font-size: 24px;">German Developer</strong>
-    </td>
-    <td align="center">
-      <img src="https://media.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_200_200/0/1631312349936?e=1724889600&v=beta&t=kq1Xiq0dPnpjFnWWbsrD-wY30DWUjytFx_eeYxTjBbY" alt="FIAP Logo" width="200"/>
-      <br>
-      <strong style="font-size: 24px;">FIAP Student</strong>
-    </td>
-    <td align="center">
-      <img src="https://i.pinimg.com/564x/38/58/58/3858585be4f987f48ada19fcc17dfd3f.jpg" alt="Rice University Logo" width="200"/>
-      <br>
-      <strong style="font-size: 24px;">Rice University Student</strong>
-    </td>
-  </tr>
-</table>
--->
-
 ## About Me
 
 I am a trilingual German software developer with a keen interest in turning ideas into practical solutions. On this GitHub profile, you'll find a collection of my academic projects from FIAP and other personal creations. My goal is to continually explore new technologies and enhance my skills.
 
-### Languages
+### Education
+
+I am currently studying at Rice University in person, where I'm enrolled in the ESL program. In addition to this, I am participating in advanced bootcamps focusing on Machine Learning, Cloud Architecture, and AI Engineering.
+
+At FIAP, I am pursuing a degree in ADS (Analysis and Development of Systems), where I am learning the following programming languages:
+
+- Java
+- Python
+- C#
+
+## Languages
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="German" width="30" height="20"> German - Native<br>
@@ -40,11 +28,6 @@ I am a trilingual German software developer with a keen interest in turning idea
   <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English" width="30" height="20"> English - Advanced
 </p>
 
-
-### 🌟 Professional Interests
-- **Python**: Enthusiast in Artificial Intelligence and Machine Learning.
-- **Java**: Currently deepening my expertise in Java.
-- **C#**: Exploring the capabilities and applications of C#.
 
 ## 🛠️ Technologies and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
