@@ -12,7 +12,7 @@ I am a trilingual German software developer with a keen interest in turning idea
 
 ### Education
 
-I am currently studying at Rice University (Houston, United States) in person, where I'm enrolled in the ESL program. In addition to this, I am participating in advanced bootcamps focusing on Machine Learning, Cloud Architecture, and AI Engineering.
+I am currently studying at Rice University (Houston, United States) in person, where I'm enrolled in the ESL program. In addition to this, I am participating in Tech Summer Minor Degrees focusing on Machine Learning & AI and Data Science.
 
 At FIAP (São Paulo, Brazil), I am pursuing my graduation degree in ADS (Analysis and Development of Systems), where I am learning the following programming languages:
 
