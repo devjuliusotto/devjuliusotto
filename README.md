@@ -79,7 +79,7 @@ At FIAP (São Paulo, Brazil), I am pursuing my graduation degree in ADS (Analysi
 </p>
 <p align="left">
   <a href="https://open.spotify.com/user/1mqlbmj935myajlx4otck7u6m">
-    <img src="https://readme-spotify.warengonzaga.com/api/spotify" alt="Spotify"/>
+<!--     <img src="https://readme-spotify.warengonzaga.com/api/spotify" alt="Spotify"/> -->
   </a>
 </p>
 
