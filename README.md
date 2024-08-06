@@ -56,7 +56,7 @@ At FIAP (São Paulo, Brazil), I am pursuing my graduation degree in ADS (Analysi
 
 
 
-## 🎉 Hobbies and Interests
+## Hobbies and Interests
 - **Outdoor Activities**: Passionate about hiking and camping with friends.
 - **Curiosity**: Fascinated by Aerospace Engineering and Industrial Engineering.
 
