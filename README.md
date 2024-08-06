@@ -31,7 +31,7 @@ At FIAP (São Paulo, Brazil), I am pursuing my graduation degree in ADS (Analysi
 </p>
 
 
-## 🛠️ Technologies and Tools
+## Technologies and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -44,7 +44,7 @@ At FIAP (São Paulo, Brazil), I am pursuing my graduation degree in ADS (Analysi
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-## 📈 GitHub Stats
+## GitHub Stats
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=devjuliusotto&show_icons=true&theme=radical&title_color=ff69b4&border_color=ff69b4" style="width: 49%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjuliusotto&layout=compact&theme=radical&title_color=ff69b4&border_color=ff69b4" style="width: 37%;">
