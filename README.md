@@ -63,6 +63,9 @@ At FIAP (São Paulo, Brazil), I am pursuing my graduation degree in ADS (Analysi
 ---
 
 <h3 align="left">🎧 Spotify Playing</h3>
+A bit about my music preferences :)
+<h3 align="left"></h3>
+
 <p align="left">
   <a href="https://open.spotify.com/playlist/0OlAPyg251DVP6haZ99Qwi?si=18dc58b7319f40d0">
     <img src="https://img.shields.io/badge/General%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="General Music"/>
