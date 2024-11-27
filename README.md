@@ -67,13 +67,13 @@ At FIAP (São Paulo, Brazil), I am pursuing my graduation degree in ADS (Analysi
   <a href="https://open.spotify.com/playlist/0OlAPyg251DVP6haZ99Qwi?si=18dc58b7319f40d0">
     <img src="https://img.shields.io/badge/General%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="General Music"/>
   </a>
-  <a href="https://open.spotify.com/playlist/5APgOEMKL6SyOEzNFBCNcl?si=d16e56ab3d384d54">
+  <a href="https://open.spotify.com/playlist/5DX3jHf5At4DJTo3esp0EQ?si=49e4579470c048b8">
     <img src="https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Programming Music"/>
   </a>
   <a href="https://open.spotify.com/playlist/5Nqfm0iJswV0TnjEcendet?si=6dcfd7e809304efa">
     <img src="https://img.shields.io/badge/Soft%20Songs-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Soft Songs"/>
   </a>
-  <a href="https://open.spotify.com/intl-pt/album/2RNTBrSO8U8XjjEj9RVvZ5?si=kQ8v1vMqRGqsc3U-wEVY2w">
+  <a href="https://open.spotify.com/playlist/22BmpuLEnEjeTB0Ysd3t8V?si=3975e06bf0d74eaa">
     <img src="https://img.shields.io/badge/GYM-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" alt="GYM"/>
   </a>
 </p>
