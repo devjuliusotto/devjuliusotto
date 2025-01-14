@@ -34,7 +34,7 @@ I am currently in the final stages of my studies at FIAP (São Paulo, Brazil), p
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="German" width="30" height="20"> German - Native<br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Portuguese" width="30" height="20"> Portuguese - Native<br>
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English" width="30" height="20"> English - Advanced<br>
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English" width="30" height="20"> English - Advanced (Certified as C1 level at Rice University)<br>
   <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" alt="Spanish" width="30" height="20"> Spanish - Intermediate
 
 </p>
