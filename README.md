@@ -12,13 +12,22 @@ I am a trilingual German software developer with a keen interest in turning idea
 
 ### Education
 
-I am currently studying at Rice University (Houston, United States) in person, where I'm enrolled in the ESL program. In addition to this, I am participating in Summer Tech Minor Degrees focusing on Machine Learning & AI and Data Science.
+I am currently in the final stages of my studies at FIAP (São Paulo, Brazil), pursuing my Associate Degree in Computer Science. My coursework includes:
 
-At FIAP (São Paulo, Brazil), I am pursuing my graduation degree in ADS (Analysis and Development of Systems), where I am learning the following programming languages:
 
-- Java
-- Python
-- C#
+| **Category**                  | **Details**                                                            |
+|-------------------------------|-------------------------------------------------------------------------|
+| **Programming Languages**     | Java, Python, C#, Javascript, Typescript                               |
+| **Web Development**           | React, Angular, Three.js, HTML, CSS, Responsive Web Design  |
+| **Databases**                 | SQL Server, MySQL, Oracle, PostgreSQL, Relational Database Design      |
+| **Cloud Computing**           | AWS, Azure, DevOps Tools, Cloud Infrastructure Management              |
+| **Software Development**      | Software Design, Domain-Driven Design, TX                              |
+| **Artificial Intelligence**   | AI & Chatbots                                                          |
+| **Disruptive Technologies**   | IoT, IoB, AI Architectures                                             |
+| **Mobile App Development**    | Hybrid and Native Applications                                         |
+| **Data Science & Quality**    | Data Science, Compliance, Quality Assurance                           |
+
+
 
 ## Languages
 
