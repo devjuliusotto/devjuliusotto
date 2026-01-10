@@ -31,7 +31,7 @@ I learn best by doing. Through hands-on work, real projects,
 and solving real-world problems. 
 
 
-## 🚲 Outside of Tech
+## Outside of Tech
 
 - Cycling & staying active  
 - Learning new stuff (sometimes unrelated, still fun)  
