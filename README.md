@@ -1,15 +1,9 @@
-## GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devjuliusotto&show_icons=true&theme=radical&title_color=ff69b4&border_color=ff69b4" width="49%" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devjuliusotto&layout=compact&theme=radical&title_color=ff69b4&border_color=ff69b4" width="37%" />
-
 
 # Hey! 👋 I’m Julius :)
 
 <p align="center">
   <a href="https://github.com/devjuliusotto/readme.md">
-    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=EC3E85&size=40&width=2000&lines=Welcome+to+my+GitHub+Profile!;Bem-vindo+ao+meu+perfil+do+GitHub!;Herzlich+willkommen+zu+meinem+GitHub-Profil!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=EC3E85&size=40&width=2000&lines=Herzlich+willkommen+zu+meinem+GitHub-Profil!;Welcome+to+my+GitHub+Profile!;Bem-vindo+ao+meu+perfil+do+GitHub!" />
   </a>
 </p>
 
@@ -27,7 +21,7 @@ My day-to-day work lives somewhere between:
 On this GitHub you’ll find things I build to **make life easier** — for myself and for others.
 
 
-## 🎓 Education
+## Education
 
 I have a degree in IT with a strong focus on software development, software architecture,
 cloud computing, AI, and data modeling.
@@ -36,12 +30,6 @@ While I value the theoretical foundation, my profile has always been very practi
 I learn best by doing. Through hands-on work, real projects,
 and solving real-world problems. 
 
-## GitHub Stats
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=devjuliusotto&show_icons=true&theme=radical&title_color=ff69b4&border_color=ff69b4" style="width: 49%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjuliusotto&layout=compact&theme=radical&title_color=ff69b4&border_color=ff69b4" style="width: 37%;">
-</div>
-``
 
 ## 🚲 Outside of Tech
 
