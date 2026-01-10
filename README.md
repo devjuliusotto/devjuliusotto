@@ -1,6 +1,8 @@
-![Metrics](https://metrics.lecoq.io/devjuliusotto)
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devjuliusotto&layout=compact&theme=radical&title_color=ff69b4&border_color=ff69b4">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devjuliusotto&show_icons=true&theme=radical&title_color=ff69b4&border_color=ff69b4">
+## GitHub Stats
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devjuliusotto&show_icons=true&theme=radical&title_color=ff69b4&border_color=ff69b4" width="49%" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devjuliusotto&layout=compact&theme=radical&title_color=ff69b4&border_color=ff69b4" width="37%" />
 
 
 # Hey! 👋 I’m Julius :)
