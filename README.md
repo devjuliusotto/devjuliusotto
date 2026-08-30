@@ -1,21 +1,23 @@
-
-### Julius Otto
-
-
-#### Software Engineer. Apaixonate about Linux. working by passion.
+# Julius Otto
 
 <img
   align="right"
   src="./julius-3d.png"
-  width="280"
+  width="170"
   alt="3D avatar of Julius Otto"
 />
 
-### Infrastructure × Software
+### Infrastructure Engineer · Software Builder
+
+**Linux enthusiast** · building practical tools for real systems.
 
 I build software for the systems I operate.
 
-Working somewhere between **IT infrastructure**, **automation** and **software engineering** — usually trying to make systems simpler, more useful and less repetitive.
+<sub>
+📍 Stuttgart, Germany &nbsp;·&nbsp;
+🐧 Linux &nbsp;·&nbsp;
+🌐 <a href="https://juliusotto.vercel.app/">juliusotto.dev</a>
+</sub>
 
 <br clear="right">
 
