@@ -28,7 +28,13 @@ I work where **infrastructure and software meet** — operating systems, automat
 
 
 
-## 🧗 What I'm climbing (aqui quero me colocar dps numa foto sem fundo descendo um alpe como se eu fosse alpinista)
+## 🧗 What I'm climbing 
+<img
+  align="left"
+  src="./eu-escalando.png"
+  width="290"
+  alt="3D avatar of Julius Otto"
+/>
 
 > Every tool started as something I didn't know yet.
 
