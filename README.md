@@ -1,5 +1,11 @@
+<img
+  align="right"
+  src="./assets/julius-3d.png"
+  width="260"
+  alt="3D avatar of Julius Otto"
+/>
 
-# Hey! 👋 I’m Julius :)
+# Hey, I'm Julius 👋
 
 <p align="center">
   <a href="https://github.com/devjuliusotto/readme.md">
@@ -7,18 +13,15 @@
   </a>
 </p>
 
-## About Me
 
-I’m an IT professional based in **Germany**, and I genuinely enjoy making technology **less annoying and more useful**.
+**Infrastructure × Software**
 
-My day-to-day work lives somewhere between:
-- automation & scripting
-- M365 Apps development  
-- IT administration  
-- Microsoft 365 & infrastructure  
-- and “why is this not working again?” moments  
+I build software for the systems I operate.
 
-On this GitHub you’ll find things I build to **make life easier** — for myself and for others.
+- Microsoft 365 · Entra ID · Active Directory
+- PowerShell · Microsoft Graph · Automation
+- TypeScript · React · Rust · Tauri
+
 
 
 ## Education
