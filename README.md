@@ -3,27 +3,32 @@
 <img
   align="right"
   src="./julius-3d.png"
-  width="170"
+  width="290"
   alt="3D avatar of Julius Otto"
 />
 
 ### Infrastructure Engineer · Software Builder
 
-**Linux enthusiast** · building practical tools for real systems.
+**Linux enthusiast** · automation-minded · building practical tools for real systems.
 
-I build software for the systems I operate.
+I work where **infrastructure and software meet** — operating systems, automating repetitive work and building the tools I wish already existed.
 
-<sub>
-📍 Stuttgart, Germany &nbsp;·&nbsp;
-🐧 Linux &nbsp;·&nbsp;
-🌐 <a href="https://juliusotto.vercel.app/">juliusotto.dev</a>
-</sub>
+### Currently
 
-<br clear="right">
+⚙️ Working with infrastructure, software development & automation  
+🐧 passion with Linux  
+🧪 developing useful desktop tools for my company
 
----
+- I really love this thing.
 
-## 🧗 What I'm climbing
+-
+-
+-
+-
+
+
+
+## 🧗 What I'm climbing (aqui quero me colocar dps numa foto sem fundo descendo um alpe como se eu fosse alpinista)
 
 > Every tool started as something I didn't know yet.
 
@@ -145,12 +150,12 @@ When I'm not working on infrastructure or software, you'll probably find me some
 🎵 **Music**  
 ☕ **Good coffee**
 
-<!--
+
 Depois podemos adicionar:
 
 <img
   align="right"
-  src="./assets/julius-cycling.png"
+  src="./eu-bike-scott.png"
   width="220"
   alt="Julius cycling"
 />
