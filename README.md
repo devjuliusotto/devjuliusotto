@@ -8,8 +8,13 @@
  
  <br clear="left">
  <br clear="left">
- 
- Julius Otto
+
+
+<img
+  src="./julius-name.svg"
+  width="430"
+  alt="Julius Otto"
+/>
 
 
 
@@ -72,7 +77,7 @@ automating repetitive work and making systems easier to operate.
 
 <img
   align="right"
-  src="./julius-graduation.png"
+  src="./eu-formado-rice.png"
   width="220"
   alt="Julius Otto in graduation attire"
 />
