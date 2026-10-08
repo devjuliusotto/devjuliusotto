@@ -47,8 +47,8 @@ automating repetitive work and making systems easier to operate.
 Practical projects, built around real things people need.
 
 <p>
-  <a href="https://github.com/devjuliusotto/ICF-Aidlingen"><img src="./profile-project-icf.svg" width="410" alt="ICF Aidlingen — Community website. Discover the community, plan a visit and find events. Screenshot of the local build. View repository." /></a>
-  <a href="https://github.com/devjuliusotto/WordFlow"><img src="./profile-project-wordflow.svg" width="410" alt="WordFlow — Browser extension. Translate unfamiliar words and hear their pronunciation while reading. Original translation card with example text. View repository." /></a>
+  <a href="https://github.com/devjuliusotto/cortex"><img src="./profile-project-cortex.svg" width="410" alt="Cortex — Windows terminal workspace manager. Organize PowerShell, CMD, WSL, notes and command snippets locally. Illustrated overview. View repository." /></a>
+  <img src="./profile-project-financial-buddy.svg" width="410" alt="Financial Buddy — Personal finance MVP. Plan cash flow, compare cash and installment purchases and project monthly balances. Illustrated overview. Private repository." />
 </p>
 
 <h2><picture><source media="(max-width: 600px)" srcset="./profile-heading-background-mobile.svg" /><img src="./profile-heading-background.svg" width="900" alt="03 — Background" /></picture></h2>
